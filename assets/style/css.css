@@ -1,0 +1,15 @@
+.banner{
+    
+    background-color: rgba(235, 105, 18, 0.87) ;
+}
+.carouselsize{
+    height: 700px;
+    
+}
+.jumbocolor{
+    background-color: rgb(245, 158, 117);
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
